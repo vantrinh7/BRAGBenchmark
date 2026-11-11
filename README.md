@@ -15,7 +15,7 @@ This sample task is difficult for multiple reasons. <br>
 (c)	There are multiple steps to reach the solution. Models can struggle when there are multiple steps to the final answer: look up, then derive; filter, then compare; read, then apply a rule.  <br>
 (d)	In this task, a helpful first step to solve the problem is transforming linear axes into log axes, which the model may struggle to do.
 
-I provided the expertise in: <br>
+My expertise are in the following. <br>
 (a)	Basic science knowledge. Protein binding is a major topic in biochemistry. With a bachelor’s degree in biochemistry, I can provide expertise in questions that command the use of textbook biochemistry knowledge. <br>
 (b)	Research-backed judgement. With multiple years of research, wet lab work, and co-authored publications, I have expertise in synthesizing scientific studies and providing sound judgement based on high-quality peer-reviewed publications. <br>
 (c)	Teaching experience. With previous experience in teaching humans and training AI, I can identify knowledge gaps and provide guidance on filling those gaps. For example, a frontier model may output a wrong solution due to misunderstanding the plot, oversimplifying the problem, and using the wrong equation. I can use Chain-of-Thought prompting to show the model how to solve the problem step-by-step. <br>
